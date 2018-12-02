@@ -1,2 +1,1 @@
-# snowball
 # zhihu
