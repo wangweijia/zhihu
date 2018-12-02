@@ -1,0 +1,1018 @@
+{
+    "questionBody": {
+        "type": "question",
+        "id": 35025502,
+        "title": "程序员年龄增大后的职业出路是什么？",
+        "questionType": "normal",
+        "created": 1440524390,
+        "updatedTime": 1534125174,
+        "url": "https://www.zhihu.com/api/v4/questions/35025502",
+        "isMuted": false,
+        "isNormal": true,
+        "isEditable": true,
+        "adminClosedComment": false,
+        "hasPublishingDraft": false,
+        "answerCount": 452,
+        "visitCount": 5284530,
+        "commentCount": 34,
+        "followerCount": 12617,
+        "collapsedAnswerCount": 33,
+        "excerpt": "程序员老了怎么办，可有出路？ 本人今年32，在某机票公司架构优化组任职，水平接近阿里P7 （3年前拿到过阿里P6的offer，因为不是核心部门，没有去）。 比较喜欢搞技术，项目管理经验较少，带过几个应届生。 在北京呆了8年，准备以后去武汉定居。 因为年龄大了，体力越来越差，开始担心以后得出路。 各位帮忙看看，以后该怎么办，年纪大了，是不是没有公司愿意收留了？",
+        "commentPermission": "all",
+        "detail": "程序员老了怎么办，可有出路？<br><br>本人今年32，在某机票公司架构优化组任职，水平接近阿里P7<br>（3年前拿到过阿里P6的offer，因为不是核心部门，没有去）。<br><br>比较喜欢搞技术，项目管理经验较少，带过几个应届生。<br><br>在北京呆了8年，准备以后去武汉定居。<br><br>因为年龄大了，体力越来越差，开始担心以后得出路。<br><br>各位帮忙看看，以后该怎么办，年纪大了，是不是没有公司愿意收留了？",
+        "editableDetail": "程序员老了怎么办，可有出路？<br><br>本人今年32，在某机票公司架构优化组任职，水平接近阿里P7<br>（3年前拿到过阿里P6的offer，因为不是核心部门，没有去）。<br><br>比较喜欢搞技术，项目管理经验较少，带过几个应届生。<br><br>在北京呆了8年，准备以后去武汉定居。<br><br>因为年龄大了，体力越来越差，开始担心以后得出路。<br><br>各位帮忙看看，以后该怎么办，年纪大了，是不是没有公司愿意收留了？",
+        "status": {
+            "isLocked": false,
+            "isClose": false,
+            "isEvaluate": false,
+            "isSuggest": false
+        },
+        "relationship": {
+            "isAuthor": false,
+            "isFollowing": false,
+            "isAnonymous": false,
+            "canLock": false,
+            "canStickAnswers": false,
+            "canCollapseAnswers": false
+        },
+        "topics": [{
+            "id": "19552330",
+            "type": "topic",
+            "url": "https://www.zhihu.com/api/v4/topics/19552330",
+            "name": "程序员",
+            "avatarUrl": "https://pic2.zhimg.com/acda162ad89c9b8995b51028d5233d1a_is.jpg",
+            "excerpt": "程序员(英文Programmer)是从事程序开发、程序维护的专业人员。一般将程序员分为程序设计人员和程序编码人员，但两者的界限并不非常清楚，特别是在中国。软件从业人员分为初级程序员、中级程序员、高级程序员（现为软件设计师）、系统分析员，系统架构师，测试工程师六大类。",
+            "introduction": "程序员(英文Programmer)是从事程序开发、程序维护的专业人员。一般将程序员分为程序设计人员和程序编码人员，但两者的界限并不非常清楚，特别是在中国。软件从业人员分为初级程序员、中级程序员、高级程序员（现为软件设计师）、系统分析员，系统架构师，测试工程师六大类。"
+        }, {
+            "id": "19552910",
+            "type": "topic",
+            "url": "https://www.zhihu.com/api/v4/topics/19552910",
+            "name": "PHP",
+            "avatarUrl": "https://pic2.zhimg.com/1d4e54f28_is.jpg",
+            "excerpt": "PHP（外文名:PHP: Hypertext Preprocessor，中文名：“超文本预处理器”）是一种通用开源脚本语言。语法吸收了C语言、Java和Perl的特点，利于学习，使用广泛，主要适用于Web开发领域。PHP 独特的语法混合了C、Java、Perl以及PHP自创的语法。它可以比CGI或者Perl更快速地执行动态网页。用PHP做出的动态页面与其他的编程语言相比，PHP是将程序嵌入到HTML（标准通用标记语言下的一个应用）文档中去执行，执行效率比完全生成HTML标记…",
+            "introduction": "PHP（外文名:PHP: Hypertext Preprocessor，中文名：“超文本预处理器”）是一种通用开源脚本语言。语法吸收了C语言、Java和Perl的特点，利于学习，使用广泛，主要适用于Web开发领域。PHP 独特的语法混合了C、Java、Perl以及PHP自创的语法。它可以比CGI或者Perl更快速地执行动态网页。用PHP做出的动态页面与其他的编程语言相比，PHP是将程序嵌入到HTML（标准通用标记语言下的一个应用）文档中去执行，执行效率比完全生成HTML标记的CGI要高许多；PHP还可以执行编译后代码，编译可以达到加密和优化代码运行，使代码运行更快。"
+        }, {
+            "id": "19556498",
+            "type": "topic",
+            "url": "https://www.zhihu.com/api/v4/topics/19556498",
+            "name": "信息技术（IT）",
+            "avatarUrl": "https://pic3.zhimg.com/ea27f2890_is.jpg",
+            "excerpt": "信息技术（Information Technology，缩写IT），是主要用于管理和处理信息所采用的各种技术的总称。它主要是应用计算机科学和通信技术来设计、开发、安装和实施信息系统及应用软件。它也常被称为信息和通信技术（Information and Communications Technology, ICT）。主要包括传感技术、计算机与智能技术、通信技术和控制技术。",
+            "introduction": "信息技术（Information Technology，缩写IT），是主要用于管理和处理信息所采用的各种技术的总称。它主要是应用计算机科学和通信技术来设计、开发、安装和实施信息系统及应用软件。它也常被称为信息和通信技术（Information and Communications Technology, ICT）。主要包括传感技术、计算机与智能技术、通信技术和控制技术。"
+        }, {
+            "id": "19561132",
+            "type": "topic",
+            "url": "https://www.zhihu.com/api/v4/topics/19561132",
+            "name": "Java",
+            "avatarUrl": "https://pic2.zhimg.com/7d343fb2f_is.jpg",
+            "excerpt": "Java是一门面向对象编程语言，不仅吸收了C++语言的各种优点，还摒弃了C++里难以理解的多继承、指针等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程。Java具有简单性、面向对象、分布式、健壮性、安全性、平台独立与可移植性、多线程、动态性等特点。Java可以编写桌面应用程序、Web应用程序、分布式系统和嵌…",
+            "introduction": "Java是一门面向对象编程语言，不仅吸收了C++语言的各种优点，还摒弃了C++里难以理解的多继承、指针等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程。Java具有简单性、面向对象、分布式、健壮性、安全性、平台独立与可移植性、多线程、动态性等特点。Java可以编写桌面应用程序、Web应用程序、分布式系统和嵌入式系统应用程序等。"
+        }, {
+            "id": "19590712",
+            "type": "topic",
+            "url": "https://www.zhihu.com/api/v4/topics/19590712",
+            "name": "C#",
+            "avatarUrl": "https://pic2.zhimg.com/v2-cdff2941dcff4a573f98514e0f7ee7c9_is.jpg",
+            "excerpt": "C#是微软公司发布的一种面向对象的、运行于.NET Framework之上的高级程序设计语言。并定于在微软职业开发者论坛(PDC)上登台亮相。C#是微软公司研究员Anders Hejlsberg的最新成果。C#看起来与Java有着惊人的相似；它包括了诸如单一继承、接口、与Java几乎同样的语法和编译成中间代码再运行的过程。但是C#与Java有着明显的不同，它借鉴了Delphi的一个特点，与COM（组件对象模型）是直接集成的，而且它是微软公司 .NET windows网络…",
+            "introduction": "C#是微软公司发布的一种面向对象的、运行于.NET Framework之上的高级程序设计语言。并定于在微软职业开发者论坛(PDC)上登台亮相。C#是微软公司研究员Anders Hejlsberg的最新成果。C#看起来与Java有着惊人的相似；它包括了诸如单一继承、接口、与Java几乎同样的语法和编译成中间代码再运行的过程。但是C#与Java有着明显的不同，它借鉴了Delphi的一个特点，与COM（组件对象模型）是直接集成的，而且它是微软公司 .NET windows网络框架的主角。C#是一种安全的、稳定的、简单的、优雅的，由C和C++衍生出来的面向对象的编程语言。它在继承C和C++强大功能的同时去掉了一些它们的复杂特性（例如没有宏以及不允许多重继承）。C#综合了VB简单的可视化操作和C++的高运行效率，以其强大的操作能力、优雅的语法风格、创新的语言特性和便捷的面向组件编程的支持成为.NET开发的首选语言。C#是面向对象的编程语言。它使得程序员可以快速地编写各种基于MICROSOFT .NET平台的应用程序，MICROSOFT .NET提供了一系列的工具和服务来最大程度地开发利用计算与通讯领域。C#使得C++程序员可以高效的开发程序，且因可调用由 C/C++ 编写的本机原生函数，因此绝不损失C/C++原有的强大的功能。因为这种继承关系，C#与C/C++具有极大的相似性，熟悉类似语言的开发者可以很快的转向C#。"
+        }],
+        "author": {
+            "id": "0",
+            "urlToken": "",
+            "name": "匿名用户",
+            "avatarUrl": "https://pic1.zhimg.com/aadd7b895_is.jpg",
+            "avatarUrlTemplate": "https://pic1.zhimg.com/aadd7b895_{size}.jpg",
+            "isOrg": false,
+            "type": "people",
+            "url": "https://www.zhihu.com/api/v4/people/0",
+            "userType": "people",
+            "headline": "",
+            "badge": [],
+            "gender": 1,
+            "isAdvertiser": false,
+            "followerCount": 0,
+            "isFollowing": false,
+            "isFollowed": false,
+            "isCelebrity": false,
+            "isBlocking": false,
+            "isBlocked": false,
+            "isPrivacy": false
+        },
+        "canComment": {
+            "status": true,
+            "reason": ""
+        },
+        "reviewInfo": {
+            "type": "",
+            "tips": "",
+            "editTips": "",
+            "isReviewing": false
+        },
+        "relatedCards": [],
+        "muteInfo": {
+            "type": ""
+        },
+        "encourageVideoAnswer": {
+            "isOpen": false
+        }
+    },
+    "answerList": [{
+        "id": 467868724,
+        "type": "answer",
+        "question": {
+            "type": "question",
+            "id": 35025502,
+            "title": "程序员年龄增大后的职业出路是什么？",
+            "question_type": "normal",
+            "created": 1440524390,
+            "updated_time": 1534125174,
+            "url": "https://www.zhihu.com/api/v4/questions/35025502",
+            "relationship": {}
+        },
+        "author": {
+            "id": "1cb130e166f13b5b8c0ef3a4a10cae01",
+            "url_token": "youfuchen",
+            "name": "幸福捕手",
+            "avatar_url": "https://pic4.zhimg.com/v2-f79059ef823a4c6463b5892aecdfb7dd_is.jpg",
+            "avatar_url_template": "https://pic4.zhimg.com/v2-f79059ef823a4c6463b5892aecdfb7dd_{size}.jpg",
+            "is_org": false,
+            "type": "people",
+            "url": "https://www.zhihu.com/api/v4/people/1cb130e166f13b5b8c0ef3a4a10cae01",
+            "user_type": "people",
+            "headline": "微信公众号：这个世界的小美好 （ID：dig404）",
+            "badge": [],
+            "gender": 1,
+            "is_advertiser": false,
+            "is_followed": false,
+            "is_privacy": false
+        },
+        "url": "https://www.zhihu.com/api/v4/answers/467868724",
+        "thumbnail": "",
+        "is_collapsed": false,
+        "created_time": 1534140758,
+        "updated_time": 1534143511,
+        "extras": "",
+        "is_copyable": true,
+        "is_normal": true,
+        "voteup_count": 3774,
+        "comment_count": 155,
+        "is_sticky": false,
+        "admin_closed_comment": false,
+        "comment_permission": "all",
+        "can_comment": {
+            "reason": "",
+            "status": true
+        },
+        "reshipment_settings": "allowed",
+        "content": "<p>唯一的出路就是把身体锻炼好，业余时间都花在健身上，只要你有一个健康的身体和健康的生活观，这个世界就饿不死人。</p><p>其余的只需要顺其自然即可。</p><p>当你躺在病床上，你向往的可不是什么程序员，什么总监，一个月多少万，你只要觉得自己能够活蹦乱跳的走在大街上晒晒太阳就心满意足了。</p>",
+        "editable_content": "",
+        "excerpt": "唯一的出路就是把身体锻炼好，业余时间都花在健身上，只要你有一个健康的身体和健康的生活观，这个世界就饿不死人。其余的只需要顺其自然即可。当你躺在病床上，你向往的可不是什么程序员，什么总监，一个月多少万，你只要觉得自己能够活蹦乱跳的走在大街上…",
+        "collapsed_by": "nobody",
+        "collapse_reason": "",
+        "annotation_action": [],
+        "relevant_info": {
+            "is_relevant": false,
+            "relevant_type": "",
+            "relevant_text": ""
+        },
+        "suggest_edit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormal_details": {
+                "status": "",
+                "description": "",
+                "reason": "",
+                "reason_id": 0,
+                "note": ""
+            },
+            "url": ""
+        },
+        "is_labeled": false,
+        "reward_info": {
+            "can_open_reward": false,
+            "is_rewardable": false,
+            "reward_member_count": 0,
+            "reward_total_money": 0,
+            "tagline": ""
+        },
+        "relationship": {
+            "is_author": false,
+            "is_authorized": false,
+            "is_nothelp": false,
+            "is_thanked": false,
+            "voting": 0,
+            "upvoted_followees": []
+        }
+    }, {
+        "id": 516353258,
+        "type": "answer",
+        "question": {
+            "type": "question",
+            "id": 35025502,
+            "title": "程序员年龄增大后的职业出路是什么？",
+            "question_type": "normal",
+            "created": 1440524390,
+            "updated_time": 1534125174,
+            "url": "https://www.zhihu.com/api/v4/questions/35025502",
+            "relationship": {}
+        },
+        "author": {
+            "id": "012c52375b523052d899a93631c9a3cf",
+            "url_token": "bfrc",
+            "name": "并非如此",
+            "avatar_url": "https://pic1.zhimg.com/v2-459bfdf6271f18312beb5589101850ff_is.jpg",
+            "avatar_url_template": "https://pic1.zhimg.com/v2-459bfdf6271f18312beb5589101850ff_{size}.jpg",
+            "is_org": false,
+            "type": "people",
+            "url": "https://www.zhihu.com/api/v4/people/012c52375b523052d899a93631c9a3cf",
+            "user_type": "people",
+            "headline": "混在德国的程序猿",
+            "badge": [],
+            "gender": 1,
+            "is_advertiser": false,
+            "is_followed": false,
+            "is_privacy": false
+        },
+        "url": "https://www.zhihu.com/api/v4/answers/516353258",
+        "thumbnail": "https://pic2.zhimg.com/v2-de368ab99a53351a787169a00a9d2960_200x112.jpg",
+        "is_collapsed": false,
+        "created_time": 1540242386,
+        "updated_time": 1541726066,
+        "extras": "",
+        "is_copyable": true,
+        "is_normal": true,
+        "voteup_count": 3213,
+        "comment_count": 467,
+        "is_sticky": false,
+        "admin_closed_comment": false,
+        "comment_permission": "all",
+        "can_comment": {
+            "reason": "",
+            "status": true
+        },
+        "reshipment_settings": "allowed",
+        "content": "<p><b>为了满足广大乎友的好奇心，末尾添加了德国IT业收入统计。</b></p><p>出路很简单，来德国吧，<b>在德国你不必是Donald Knuth， Peter Norvig，Guido van Rossum中的任何一位， 你只需要是一名普普通通的程序员， 在多数企业你都可以在基层岗位干到退休</b>，我在德国也干过三家公司了，曾经去过一个部门， 平均年龄45岁， 60岁以上的老大爷有好几位， 他们的技术水平相当一般， 不是什么大牛， 生活也十分惬意， 看到他们， 我有一种当年我妈在国企的感觉， 当然其实不仅仅使他们，其实我也差不多是半退休心态。</p><p>我已经好几年没有加过班，在德国一般公司采用时间账户管理方式，也就是如果你每周40小时的工作时间，那么你如果干多了， 就叫加班，但是德国企业一般不愿意付加班费，所以多数希望那你能换休， 也就是说如果你因为项目忙， 每周工作50小时， 一个月以后， 你多出了40个小时，你就可以休息一整个星期，而且在德国， 什么时候休息都是你自己说了算，领导很少有不批准的时候，一年两三次超过一周的度假 是很平常的， 即便如此，每年还有很多员工连基本工作时间都干不完， 还欠公司一些时间，到了年底就要假装加班，在公司磨洋工。 我说的可是程序员，国内认为拼命的职位，在这里你的感觉会完全不同，尤其是进入德国的一些百年老店， 要不很多人都说德国有很多著名的养老公司。<b>以前有人吹德国一年有半年都不上班，那确实是胡说， 德国一年大约有250个工作日， 减去多数公司提供的 30天法定假期，在减去平均的10天病假，以及换修的日子， 一年控制在200天以内，还是可能的</b>。</p><p><br></p><p>在德国收入差距非常小， 当然是和国内相比， <b>一个10年工作经验的架构工资也不过是大学毕业生的两倍而已， 这是税前，由于德国是高福利，高税收国家， 收入越高，税收就越重， 税后也就不到1.5倍， 而10年后，你的工资涨幅基本上就和通胀持平了</b>， 除非你个人有重大贡献， 而且德国很少有快速成长的互联网公司，所以这里的人都看重基本工资， 对股票期权不感兴趣，和美国完全不同。</p><p>我记得我刚毕业在德国工作时， 因为项目没有按时完成， 头都打算和客户谈延期了，我半夜加班到第二天临晨， 勉强将任务完成， 第二天一早，同事和头都惊为天人， 立刻要求我回家睡觉，休息，还问我需不需要同事开车送我回家，等我再次来公司的时候，领导单独约见我，我以为要表扬我呢， 原来是给我普法，<b> 在德国，公司有义务给每个员工买保险， 但是员工在公司工作时间每天不得 超过10个小时，不然出了事情， 个人和公司都要自己承担责任， 保险不管</b>。  同时建议我了解一些德国的企业文化， 什么狼性文化， 在这里是不存在的。</p><p>在德国休病假是天经地义的事情， 基本上40岁往上的员工，一年修上十几二十天病假很常见，在德国大企业，谁没几个三天打鱼两天筛网的病号同事呀。 </p><p>你们不要认为德国人懒散， 德国可是欧洲经济火车头，如果你去法国，西班牙，意大利看看他们吃午饭要花多久，就知道为什么德国的经济是最好的。</p><p><b>德国就是码农养老的理想国度之一， 来吧， 德国欢迎你们， 德国退休程序员都会被返聘，因为德国现在很缺软件工程师。</b></p><p><b>____________________________________________________________________________________</b></p><p>没想到这帖子居然很受欢迎， 因此收到很多私信， 询问关于如何来德工作的问题， 由于数量较多，我就不一一回应， 在这里统一回答一下。</p><p>首先告诉大家一个好消息， <b>德国正在向移民国家改革， 新的移民法案将会出台，将要效仿加拿大根据积分申请移民， 作为程序员以前就有蓝卡通道， 所以新移民法生效以后，搞软件的肯定都是高分职业</b>。  </p><p>其次我个人在德国已经十几年了， 所以如何来德的信息早已过时， 现在是信息爆炸时代，想找如何来德的攻略，应该很容易，我相信我们码农们就算代码写得一般般，至少上网收集信息的能力应该超过普通网民吧。</p><p>我个人认识一些直接从国内过来的同胞， <b>有的直接在网上申请的德国职位，通过电面就得到offer了， HR自然会帮你办理相关手续</b>， 德国对IT业开绿等也有好多年了， 不过德国对国内的吸引力一直不大， 估计是德语和待遇一般惹的祸。</p><p><b>关于德语，其实大可不必担心，用英语在德国生活完全没问题</b>， 尤其是大城市，在德国人口20万以上就算大城市， 而且德国正在国际化， 英语基本上已经变成我们公司的第一工作语言，只会英语的同事越来越多，不过目前还是以老印为主。至于我是那家公司的看我资料就能知道。</p><p>看，如果你真的想来， 其实一点也不难， 不过我要提醒各位， 我们在德华人讨论最多的，最感兴趣的话题恰恰是回国工作和回国创业， 德国正应了一句俗话， </p><p><b>德国是好山好水好无聊， 国内是好脏好乱好热闹。 所以出国就是一座围城， 到底想要什么样的生活还是想清楚为好</b>。 好了我要去带娃了:)</p><p>_____________________________________________________________________________________</p><p>又收到很多私信， </p><p><b>问如何直接找德国工作。</b></p><p><b>当然首选是职业社交平台，比如linkedIn, Xing 其次是glassdoor等等国际猎头网站。</b></p><p><br></p><p><b>很多关心德国收入的小伙伴们， 给出最新的德国行业的收入统计， 大家自行感受一下，虽然是德语的，但是相信大家连蒙带猜的还是可以理解（抱歉，我太懒了）</b></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-9d161485cc604ed090720bd3addf301b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1126\" data-rawheight=\"527\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-3defb0a8641f628d619d44f69dcfddeb_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1126\" data-original=\"https://pic4.zhimg.com/v2-9d161485cc604ed090720bd3addf301b_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1126'%20height='527'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1126\" data-rawheight=\"527\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-3defb0a8641f628d619d44f69dcfddeb_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1126\" data-original=\"https://pic4.zhimg.com/v2-9d161485cc604ed090720bd3addf301b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-9d161485cc604ed090720bd3addf301b_b.jpg\"></figure><p></p>",
+        "editable_content": "",
+        "excerpt": "<b>为了满足广大乎友的好奇心，末尾添加了德国IT业收入统计。</b>出路很简单，来德国吧，<b>在德国你不必是Donald Knuth， Peter Norvig，Guido van Rossum中的任何一位， 你只需要是一名普普通通的程序员， 在多数企业你都可以在基层岗位干到退休</b>，我在德国也干过三…",
+        "collapsed_by": "nobody",
+        "collapse_reason": "",
+        "annotation_action": [],
+        "relevant_info": {
+            "is_relevant": false,
+            "relevant_type": "",
+            "relevant_text": ""
+        },
+        "suggest_edit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormal_details": {
+                "status": "",
+                "description": "",
+                "reason": "",
+                "reason_id": 0,
+                "note": ""
+            },
+            "url": ""
+        },
+        "is_labeled": false,
+        "reward_info": {
+            "can_open_reward": false,
+            "is_rewardable": false,
+            "reward_member_count": 0,
+            "reward_total_money": 0,
+            "tagline": ""
+        },
+        "relationship": {
+            "is_author": false,
+            "is_authorized": false,
+            "is_nothelp": false,
+            "is_thanked": false,
+            "voting": 0,
+            "upvoted_followees": []
+        }
+    }, {
+        "id": 500730978,
+        "type": "answer",
+        "question": {
+            "type": "question",
+            "id": 35025502,
+            "title": "程序员年龄增大后的职业出路是什么？",
+            "question_type": "normal",
+            "created": 1440524390,
+            "updated_time": 1534125174,
+            "url": "https://www.zhihu.com/api/v4/questions/35025502",
+            "relationship": {}
+        },
+        "author": {
+            "id": "d65981dae379cbf7cd1693e7246189b5",
+            "url_token": "jason-rock-51",
+            "name": "朝阳区吃瓜群众",
+            "avatar_url": "https://pic4.zhimg.com/043340f308460fb0967ad13696bdceff_is.jpg",
+            "avatar_url_template": "https://pic4.zhimg.com/043340f308460fb0967ad13696bdceff_{size}.jpg",
+            "is_org": false,
+            "type": "people",
+            "url": "https://www.zhihu.com/api/v4/people/d65981dae379cbf7cd1693e7246189b5",
+            "user_type": "people",
+            "headline": "某电商平台前端工程师",
+            "badge": [],
+            "gender": 1,
+            "is_advertiser": false,
+            "is_followed": false,
+            "is_privacy": false
+        },
+        "url": "https://www.zhihu.com/api/v4/answers/500730978",
+        "thumbnail": "https://pic3.zhimg.com/v2-717ab3612fada6d48123afaf324f0121_200x112.jpg",
+        "is_collapsed": false,
+        "created_time": 1538215657,
+        "updated_time": 1543377342,
+        "extras": "",
+        "is_copyable": true,
+        "is_normal": true,
+        "voteup_count": 2899,
+        "comment_count": 300,
+        "is_sticky": false,
+        "admin_closed_comment": false,
+        "comment_permission": "all",
+        "can_comment": {
+            "reason": "",
+            "status": true
+        },
+        "reshipment_settings": "allowed",
+        "content": "<p>每隔一段时间总会冒出这种问题，怒答之！我今年33岁，创业失败，然后网站上投简历，按网上的说法，我这种即将35岁的人是会被歧视的，那为嘛阿里没歧视我，京东没歧视我，美团没歧视我，货车帮没歧视我，知道创宇没歧视我，够用云没歧视我，中国电信研发中心没歧视我，更不用说其他一些规模相对小的公司了，都给了面试机会，而且收到了不少的offer，最终决定加入某知名电商平台。如果我的经历没有说服力，可以去看看<a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5NTE1MDY0NQ%3D%3D%26mid%3D401716265%26idx%3D2%26sn%3Defaa7e50c5e26d561016a1f9b554eb92%26mpshare%3D1%26scene%3D23%26srcid%3D01147a5aAdQn7vaTR9ONWHxF%23rd\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">【中通人的一天】吉日嘎拉：中天背后的“程序猿”</a>，也可以去网上看下阿里前端专家阮一峰，这两位大佬不都是中年以后才去了现在的公司，而且也都40了吧，不也干得热火朝天的。</p><p>这种问题类似于网上有一篇流传度很广的文章，大意是说如果一个30多岁的职场人，找工作时还靠简历，而不是靠内推或猎头，只能说明你的职场很失败。我现在可以很大声的说，这纯属是放狗屁，我严重怀疑写这篇文章的人不怀好意，有可能是猎头散播的，好让大家都去找他们！</p><p>关于大龄程序员的年龄问题，<b>我个人认为所谓的年龄歧视是自己给自己设定的心理障碍，你所需要担心的不是你的年龄，而是你是否有职业规划，是否朝职业目标努力，你的年龄是否达到了相应的能力及经验</b>。试着问自己下列问题：</p><ul><li><b>我做程序员是因为这个行业好就业，工资相对较高，还是真的是感兴趣？（如果不是出于兴趣和爱好，建议趁早转行。）</b></li><li><b>我的技术水平处在什么水平？相较他人，我有哪些优势？（多找公司面试下就知道了，真的不用担心别人会因为你的年纪而拒绝给你面试机会）</b></li><li><b>平时喜欢做总结吗，喜欢关注新技术吗？在学习新技术吗？喜欢了解相应的原理吗？</b></li><li><b>除了技术，我还有没有其它特长？</b></li></ul><p>如果到了30多岁，知识和经验没有系统化，代码重构和架构不会，不能让写出的程序更优雅、性能更好，不知道各种框架的适用场景和优缺点、不知道一些解决方案背后的原理，技术水平也跟工作二三年的人水平差不多，请问你是老板，你会不会要自己这样的员工？不要把年龄做为停止学习的借口，年纪大了，家庭琐事多了，学习时间的确少了，但是也不可能完全没有学习时间。新事物是基于现有问题产生的解决方案，比如你是前端工程师，以前你项目迭代到一定规模，你会为UI层不能实现组件化标签调用而困扰、会被数据与DOM的关系所烦恼，会被嵌套的回调函数搞疯，所以有了react，有了es6，有了webpack，你会觉得这些技术的出现简直是水道渠成，学会了react，再学vue，可以举一反三，这些技术只需要你投入几十个小时来学习，就可以上手并在工作中带给你巨大的便利，你还要找借口，除了懒、不思进取外，我实在不知道说什么。</p><p>至于发展路线，不想做技术了，如果具备转岗的一些潜力和能力，都会给转岗机会，当然薪资会降，因为你在新岗位上的经验不像你在老岗位上那么丰富，凭什么按老岗位的工资水平来付你新岗位的薪酬？</p><p>下面是传统软件公司的发展通道：</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-3aa6105febae6a391d33dbffae6841ad_b.jpg\" data-rawwidth=\"1807\" data-rawheight=\"937\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic1.zhimg.com/v2-2d6e80060935f5fb57475536e80051a0_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1807\" data-original=\"https://pic2.zhimg.com/v2-3aa6105febae6a391d33dbffae6841ad_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1807'%20height='937'&gt;&lt;/svg&gt;\" data-rawwidth=\"1807\" data-rawheight=\"937\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic1.zhimg.com/v2-2d6e80060935f5fb57475536e80051a0_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1807\" data-original=\"https://pic2.zhimg.com/v2-3aa6105febae6a391d33dbffae6841ad_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-3aa6105febae6a391d33dbffae6841ad_b.jpg\"></figure><p>互联网公司的技术人员，到了一定级别后会有对应的管理级别，干个几年后会开始培养你的管理能力，让你往管理方面转。如果不想做管理，就往更高的技术层级冲，表达能力好的，可以做新人导师。</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-fe5cd99b4ddbc133d859d21b1cc8d946_b.jpg\" data-rawwidth=\"644\" data-rawheight=\"947\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-eb4103751151f50ed697d006dfbd7612_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"644\" data-original=\"https://pic3.zhimg.com/v2-fe5cd99b4ddbc133d859d21b1cc8d946_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='644'%20height='947'&gt;&lt;/svg&gt;\" data-rawwidth=\"644\" data-rawheight=\"947\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-eb4103751151f50ed697d006dfbd7612_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"644\" data-original=\"https://pic3.zhimg.com/v2-fe5cd99b4ddbc133d859d21b1cc8d946_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-fe5cd99b4ddbc133d859d21b1cc8d946_b.jpg\"></figure><p>    如果我是楼主，我会选择去阿里，眼界和获得的人脉不一样，在阿里P6一抓一大把，但是出来外面的公司还是很抢手的，只是薪水开不了阿里那么高而己。不管是不是大厂出来的，除了上面提到的发展通道，还可以干这些职业：</p><ul><li><b>如果是长期专注做某业务的，干这么多年都快成业务专家了吧，去相关行业的软件公司做售前顾问，做需求分析师。</b></li><li><b>如果性格不是那么内向，能跟很多同事聊得来，去学一下人力资源的知识，专做软件行业的猎头，相比其它猎头，你更了解用人单位要什么样的人，侯选人的技术是否匹配，如果你能帮创业公司挖一个团队过去，佣金自己算...</b></li><li><b>做培训讲师，可以在网上课堂讲，可以去培训机构任教，也可以去高校跟老师合作，他负责招生，你负责实战培训、岗前培训。</b></li><li><b>教程写手，写一些给新人的入门教程。廖雪峰和汤姆大叔了解下</b></li></ul><p><b>      看到了吗，不管是转岗，还是去外面自己干，前提都有一个，得有干货。做技术的同时试着关心一下外面的世界，培养其它一些能力，比如学会人际交往，学会演讲，了解产品和项目管理知识，写博客锻炼写作能力等。 </b></p><p>     就算上面的干不了，不还可以去开滴滴，开便利店，做销售吗？哪会饿死？内心所担心的是怕去干其它工作，工资没程序这么高，或不体面罢了。只要愿意降低期往，降低消费水平，哪有活不下去的理由呢？</p><p>      什么年龄大了，身体吃不消，得转行。请问现在除了公务员和国企可以混日子，哪还有轻松稳定的事？律师轻松吗？外科医生轻松吗？企业老板轻松吗？阿里CEO张勇轻松吗？谁不是一把年纪了还顶着巨大的工作压力在前进？不管哪个行业的从业人员，如果不按时吃饭，天天吃外卖、吃洋快餐，懒得起来走动，懒得花半个小时去运动健身，身体哪会好？年龄大不是问题，就怕年纪大一点，生活习惯还差，以年纪大为借口混日子就是大问题了。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-f2a8ff74dc2b62c601da75e62aafc764_b.jpg\" data-rawwidth=\"937\" data-rawheight=\"1251\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic2.zhimg.com/v2-b78e1b1f1eda132281c904ee23276df9_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"937\" data-original=\"https://pic1.zhimg.com/v2-f2a8ff74dc2b62c601da75e62aafc764_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='937'%20height='1251'&gt;&lt;/svg&gt;\" data-rawwidth=\"937\" data-rawheight=\"1251\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic2.zhimg.com/v2-b78e1b1f1eda132281c904ee23276df9_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"937\" data-original=\"https://pic1.zhimg.com/v2-f2a8ff74dc2b62c601da75e62aafc764_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f2a8ff74dc2b62c601da75e62aafc764_b.jpg\"></figure><p></p>",
+        "editable_content": "",
+        "excerpt": "每隔一段时间总会冒出这种问题，怒答之！我今年33岁，创业失败，然后网站上投简历，按网上的说法，我这种即将35岁的人是会被歧视的，那为嘛阿里没歧视我，京东没歧视我，美团没歧视我，货车帮没歧视我，知道创宇没歧视我，够用云没歧视我，中国电信研发中心…",
+        "collapsed_by": "nobody",
+        "collapse_reason": "",
+        "annotation_action": [],
+        "relevant_info": {
+            "is_relevant": false,
+            "relevant_type": "",
+            "relevant_text": ""
+        },
+        "suggest_edit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormal_details": {
+                "status": "",
+                "description": "",
+                "reason": "",
+                "reason_id": 0,
+                "note": ""
+            },
+            "url": ""
+        },
+        "is_labeled": false,
+        "reward_info": {
+            "can_open_reward": false,
+            "is_rewardable": false,
+            "reward_member_count": 0,
+            "reward_total_money": 0,
+            "tagline": ""
+        },
+        "relationship": {
+            "is_author": false,
+            "is_authorized": false,
+            "is_nothelp": false,
+            "is_thanked": false,
+            "voting": 0,
+            "upvoted_followees": []
+        }
+    }, {
+        "id": 536813696,
+        "type": "answer",
+        "question": {
+            "type": "question",
+            "id": 35025502,
+            "title": "程序员年龄增大后的职业出路是什么？",
+            "question_type": "normal",
+            "created": 1440524390,
+            "updated_time": 1534125174,
+            "url": "https://www.zhihu.com/api/v4/questions/35025502",
+            "relationship": {}
+        },
+        "author": {
+            "id": "4248933125d95268d3fe90a89c1fd175",
+            "url_token": "huo-gu-itpang-zi",
+            "name": "硅谷IT胖子",
+            "avatar_url": "https://pic3.zhimg.com/v2-7c44b427f5c0838adafd869cc2037f9b_is.jpg",
+            "avatar_url_template": "https://pic3.zhimg.com/v2-7c44b427f5c0838adafd869cc2037f9b_{size}.jpg",
+            "is_org": false,
+            "type": "people",
+            "url": "https://www.zhihu.com/api/v4/people/4248933125d95268d3fe90a89c1fd175",
+            "user_type": "people",
+            "headline": "Facebook软工       微信公众号：【硅谷IT胖子】",
+            "badge": [],
+            "gender": 1,
+            "is_advertiser": false,
+            "is_followed": false,
+            "is_privacy": false
+        },
+        "url": "https://www.zhihu.com/api/v4/answers/536813696",
+        "thumbnail": "",
+        "is_collapsed": false,
+        "created_time": 1542875913,
+        "updated_time": 1542908356,
+        "extras": "",
+        "is_copyable": true,
+        "is_normal": true,
+        "voteup_count": 2406,
+        "comment_count": 171,
+        "is_sticky": false,
+        "admin_closed_comment": false,
+        "comment_permission": "all",
+        "can_comment": {
+            "reason": "",
+            "status": true
+        },
+        "reshipment_settings": "allowed",
+        "content": "<p>非常支持有个高赞回答：99%的职业，年龄增大后都没前途。没前途是绝大多数普通人的宿命，有前途的人也用不着等到老。</p><p><br></p><p>我有一年短租过一个生物博士后家的房子，跟他们生活过几个月。生物薄厚40多岁，娃还小才6岁，生活很节省，节省到了极致。在排EB2绿卡。你说他40多岁了，一年也就几万、要养一家三口，是不是真实的生活？你说他会不会来知乎问“生物薄厚（海外俗称“千老”）年龄增大了出路是什么？”</p><p><br></p><p>人学生物的就智商低？就比码工该死？就活该穷着？不也努力活着？</p><p><br></p><p>工地上的力工、搬砖的，年龄大了出路是什么？混黑社会的，年龄大了出路是什么？码工不过是一种智力型力工罢了。本质上，绝大多数中产其实跟赤贫阶级都差不多，就是手一停，人就要挨饿。</p><p><br></p><p>如果心态是把程序员当成世界上最好的职业，我觉得大可不必。其实太多职业比程序员好，只不过程序员适合普通人、穷人、“门槛低”而已；</p><p><br></p><p>如果心态是怕老了老无所依、失业，不敢做程序员这行，那我劝你跟施一公玩冷冻电镜去，不到老就没出路了，的确不用担心“年龄增大后”；换句话说，要是当了程序员还老无出路，那么干别的您大概率也是老了出问题；</p><p><br></p><p>生活，本来就是很不容易的。人无远虑必有近忧，我的另外一种取反解法就是：现在过得不错，就开始担心远处的生活了。盛世总会衰败，大宴豪奢之后，往往飞鸟各投林，没事儿读读《红楼梦》，有些现实人总得接受。</p><p><br></p><p>其实大可不必。先悲观到极点休克治疗下：你要是活不到“年龄增大”那一天呢？不就白担心了？有人说我抬杠，不见得吧？万一写程序累死了呢？万一碰上各种事故了呢？万一生病了呢？</p><p><br></p><p>其次是，程序员年轻时好歹比其他的搬砖职业稍微多积累一点钱，多买几套房子出租，多存点钱在401K，分散投资，抗风险能力还是稍微比其他行业强一点；</p><p><br></p><p>不要羡慕医生（注：美国），学医也很苦对吧，再说一个身份问题你怎么解决？我见过40多岁还在考的而且是另一半支持的身份，我自问没这种毅力和勇气；不要羡慕学法律的律师，这语言能力咱也没有对吧，要是当移民律师填个表一年赚几万，还不如当码工去；不要羡慕学商科金融的，能出头的都是人精，就是来做码工也是一等一的，更何况好多都名校出身的。</p><p><br></p><p>我个人觉得，能当manager的，能创业的，终究还是偏少数。大部分码工，结局都是庸庸碌碌，但真正被逼得跳楼的、穷死的，其实也没几个。从好公司跳到烂公司，再从烂公司跳当contractor，总能有口饭吃。</p><p><br></p><p>再实在不行了，给人当小工、打下手，去大华超市收银，端盘子，开货车，都是劳动，人能做，咱也能做对吧？更别说有的答案提到了：当老师，教编程，其实是有很多很多出路的。脑子没问题，双手又在，还能饿死活人？</p><p><br></p><p>社会变化太快了，没人能预测。90年代下岗的时候很多人都接受不了：说好的养一辈子呢？最后这些人也得自己扛对吧。2008年我还听说“DBA越老越吃香”，结果10年后DBA工作岗位大量缩水。会计能干到老吧？也未必，说不定就被软件取代了，还不如码工呢。报社稳定吧？结果现在谁看报纸和刊物？你说那些人要不要改行？变化才是主流，一成不变才是罕见。</p><p><br></p><p>其实不是抬杠，我只是想说，很多很多的职业，其实都是相当不稳定的：跟经济形势、跟技术、跟资金、跟规定，都是高度相关的。不稳定有两种：看不到的不稳定，和能预料到的不稳定。很多人不慌，是因为根本看不到危机。</p><p><br></p><p>我想，这个社会确定是往信息化方向走了。那些叫嚷“AI注定会自己写程序淘汰所有码工”的人我认为大概率是外行和新闻记者。信息化下，你说什么专业最接近、最不容易失业、最容易跟上潮流？当然是所有跟编程、数据相关的专业。其实最应该慌的，是售货员、工厂的重复劳动者、麦当劳翻肉饼的、前台等，这些工作早晚或多或少地被机器取代。</p><p><br></p><p>关键在于心态：你把码工当成神圣的职业，自然受不了这种老了后的落差；你把码工当成修下水道的、抡大锤的，自然会觉得出路多了去了。</p><p><br></p><p>我这几天也累得不行。现在这公司其实挺累，学东西不怕干活也不怕，主要是心也蛮累的。而且这公司是出了名的喜欢年轻人，我跟20多岁的一比，也的确是有时候略感力不从心。扪心自问，我自己也没有办法，我找不到更好的活计去做，好歹公司还管三餐不是？</p><p><br></p><p>有时候也感觉累得不行，也很沮丧，但是睡一觉起来又精神百倍了。人生就是这样吧，总有你担心的，也总有解决不了的问题。就算你富有四海，也惧怕死亡，也惧怕失去。</p><p><br></p><p>说到底，这题目跟程序员一毛钱关系都没有，“年龄增大”是永恒的没出路。</p><p><br></p><p>我知道，程序员年龄大了怕累。所以我主张的是拒绝996，年轻时别拼太狠，为了仨瓜俩枣玩命996，和上了年纪怕没出路被淘汰的，大概率也是同一拨人对吧。当然，人华为人可能不这么想，人30岁就财务自由了，这也算公平；但你没拿多少钱还使劲拼命的，还在知乎号称自己最优秀可以弯道超车的，就是该认真思考一下了。</p><p><br></p><p>只不过，人不要乱立flag，觉得年龄大了一定怎样怎样，35岁以上一定不会有技术成长了，30岁以上改行一定晚了，40岁一定刷不动题了。我技术进步最快的几年，反而是在30岁以后。技术成长这些并不是看年龄，而是更多地看机遇和运气，有时候也有个积累的过程。</p><p><br></p><p>其实码工的出路，还是决定于社会的走向，这没人知道。风口上猪都能飞，关键是风来不来对吧。</p><p><br></p><p>我个人的计划：自己再好好干几年，技术水平再上个台阶，然后找个著名养老公司一蹲，或是一个二线养老公司休息几年，到快40了再考虑是出来蹦跶还是换个地方蹦跶还是老老实实窝着。</p><p><br></p><p>我心态很好的：当程序员，好歹让我过去的7、8年里一直过着好日子，而且还是我最年轻的时候，我已经很感激了；我要是当博士后，以我的脾气，还不得活活穷死、气死。</p><p><br></p><p>人，要知足对吧？能选不太差的，也就可以了。</p><p><br></p><p>===Update 1 Thanksgiving, Nov. 22nd 2018 ===</p><p>为什么感恩节还能更新，笨，我在机场等飞机呢。</p><p><br></p><p>昨天忙了一整天，临睡觉时写的，困得不行有点乱，前言不搭后语，谢大家赞，难道我没写清楚你们居然读明白了？懂行的都知道我为什么忙了一整天，也知道周一发生了什么，我们这还在收拾残局呢。简单来说，周一有一个人在火药桶旁边抽了颗放松烟……</p><p><br></p><p>从我个人的角度写写30多岁码工的感受：的确是受年龄压力开始增大了。比如二十多岁的小年轻，可能什么都懂，对组里的东西很熟悉。有时候我也怀疑自己是不是智商不够，是不是自学能力太差，是不是基础不行，别人是不是都玩命加班，你知道30多岁的人那种危机感。后来其实想一下就明白：小年轻之所以懂，是因为入组早，当年亲手搭建过那些东西，当然熟了，我自己搭建的东西也是熟得不行啊。跟智商、能力都关系不大，反而是机遇、运气占大头。</p><p><br></p><p>所以年龄这东西，不是线性的，没必要看太重。</p><p><br></p><p>周瑜15岁当了东吴的水军都督，扎克伯格20多岁就当CEO、名满天下了，某胖年少万兜鍪，也是80后二十几岁就是世界第三陆军强国的霸王了，敢于对阵罗马帝国了。跟这些人比，我们某乎的是不是都该排队跳楼去？</p><p><br></p><p>压力一直是有的，只不过看你在不在乎。我有个朋友说得好，大概意思是：压力伤不伤身，在于你怎样认为：你认为压力伤身，它就伤身；你不在乎，可能就不伤身。</p><p><br></p><p>所以，我琢磨着人活着还是得跟自己比。总跟别人比，总看别人年少有为自己一把年纪还在吭哧吭哧地写代码，当然很痛苦。但我自己就安慰自己：人都名校出身的，还有不少PhD，我特么一个改行的烂校毕业生，混迹多年才能跟人站同一个位置，也算很正常了。</p><p><br></p><p>为什么我们这个时代的人容易感受到压力、对比和焦虑？作为80后，我觉得我们的时代其实很特殊：从小到大，目睹了奇迹的诞生，跟着奇迹成长，所以我们潜意识里，是认为奇迹是正常的。我在90年代的小时候，的确能感受到几乎每年都会有大量新东西出现，很容易让人误解这种上升应该是永远持续的。这种烙印影响很多人一生。</p><p><br></p><p>不光物质上，身边谁谁80后创业身价百亿了，谁谁发财了谁谁暴富了，再加上媒体炒作推波助澜，让每个不成功的人都在担忧自己、担忧未来。其实，换个角度想，想想广场协议后的日本普通民众，失落20年，不也是正常过日子么？我在中西部住的时候，能感受到那种静止之美：地广人稀，慢慢吞吞，芝加哥房价10年不涨，难道就不是正常的生活了么？</p><p><br></p><p>一定要拼命工作、一定要房价飙升、一定要每几年就工资翻倍，才是过高的要求了吧？</p><p><br></p><p>所以我是觉得，作为普通人，其实能做到几个小目标就算不容易了；甚至我觉得，我们普通人对社会的最大贡献就是不给别人添麻烦。有时候焦虑了，看看自己的小目标就好。</p><p><br></p><p>有人私信问我现在改行CS晚不晚。我觉得这不决定于我说，我说的都是XX，而决定于：第一，你有没有其他更好的路，如果没有，就是告诉你CS会波折、衰落，你也得学对吧？第二，在于你的追求、能力和目标，是找个舒服地方混日子，还是打拼。</p><p><br></p><p>CS这产业已经极为庞大，瞎子摸象原理，100个人基本上有100种说法了，里面还夹着很多人云亦云，完全不知道自己说的是什么的。</p>",
+        "editable_content": "",
+        "excerpt": "非常支持有个高赞回答：99%的职业，年龄增大后都没前途。没前途是绝大多数普通人的宿命，有前途的人也用不着等到老。 我有一年短租过一个生物博士后家的房子，跟他们生活过几个月。生物薄厚40多岁，娃还小才6岁，生活很节省，节省到了极致。在排EB2绿卡。你…",
+        "collapsed_by": "nobody",
+        "collapse_reason": "",
+        "annotation_action": [],
+        "relevant_info": {
+            "is_relevant": false,
+            "relevant_type": "",
+            "relevant_text": ""
+        },
+        "suggest_edit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormal_details": {
+                "status": "",
+                "description": "",
+                "reason": "",
+                "reason_id": 0,
+                "note": ""
+            },
+            "url": ""
+        },
+        "is_labeled": false,
+        "reward_info": {
+            "can_open_reward": false,
+            "is_rewardable": false,
+            "reward_member_count": 0,
+            "reward_total_money": 0,
+            "tagline": ""
+        },
+        "relationship": {
+            "is_author": false,
+            "is_authorized": false,
+            "is_nothelp": false,
+            "is_thanked": false,
+            "voting": 0,
+            "upvoted_followees": []
+        }
+    }, {
+        "id": 536531309,
+        "type": "answer",
+        "question": {
+            "type": "question",
+            "id": 35025502,
+            "title": "程序员年龄增大后的职业出路是什么？",
+            "question_type": "normal",
+            "created": 1440524390,
+            "updated_time": 1534125174,
+            "url": "https://www.zhihu.com/api/v4/questions/35025502",
+            "relationship": {}
+        },
+        "author": {
+            "id": "1e2c9261b85996ccc3c5436850127e33",
+            "url_token": "miloyip",
+            "name": "Milo Yip",
+            "avatar_url": "https://pic2.zhimg.com/v2-2b63868f49fae3e47f5d65ce0951b38b_is.jpg",
+            "avatar_url_template": "https://pic2.zhimg.com/v2-2b63868f49fae3e47f5d65ce0951b38b_{size}.jpg",
+            "is_org": false,
+            "type": "people",
+            "url": "https://www.zhihu.com/api/v4/people/1e2c9261b85996ccc3c5436850127e33",
+            "user_type": "people",
+            "headline": "游戏程序员、《游戏引擎架构》译者",
+            "badge": [{
+                "type": "best_answerer",
+                "description": "优秀回答者",
+                "topics": []
+            }],
+            "gender": 1,
+            "is_advertiser": false,
+            "is_followed": false,
+            "is_privacy": false
+        },
+        "url": "https://www.zhihu.com/api/v4/answers/536531309",
+        "thumbnail": "https://pic1.zhimg.com/v2-9ee4aa9faf41b851c9b03e63ad12e1e0_200x112.jpg",
+        "is_collapsed": false,
+        "created_time": 1542851527,
+        "updated_time": 1542851527,
+        "extras": "",
+        "is_copyable": true,
+        "is_normal": true,
+        "voteup_count": 601,
+        "comment_count": 64,
+        "is_sticky": false,
+        "admin_closed_comment": false,
+        "comment_permission": "all",
+        "can_comment": {
+            "reason": "",
+            "status": true
+        },
+        "reshipment_settings": "allowed",
+        "content": "<p>昨天41，到了 <a class=\"member_mention\" href=\"https://www.zhihu.com/people/0970f947b898ecc0ec035f9126dd4e08\" data-hash=\"0970f947b898ecc0ec035f9126dd4e08\" data-hovercard=\"p$b$0970f947b898ecc0ec035f9126dd4e08\">@vczh</a> 母校做技术分享。</p><p>从深圳到广州两个小时，在车上写了点代码，不是什么大架构啊等东西，只是改进了定点数程序库中的 exp(x) ，改用 range reduction 和 minimax 多项式近似。到会场就完成了。嗯，精确度不错，性能提升了几倍。借 WiFi，git push。噢，活动要开始了。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-e86d556aaabbba2a70c9eb68fc3da283_b.jpg\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-dedb39f49f4fa1a386216ff09f652f6a_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic4.zhimg.com/v2-e86d556aaabbba2a70c9eb68fc3da283_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1920'%20height='1080'&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-dedb39f49f4fa1a386216ff09f652f6a_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic4.zhimg.com/v2-e86d556aaabbba2a70c9eb68fc3da283_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e86d556aaabbba2a70c9eb68fc3da283_b.jpg\"></figure><p>讲了一小时，和同学们交流了半小时。问讲座中技术内容的不多，更多是问怎样来实习啊，实习会做什么啊，还有问版号有什么影响啊～我就做技术的，国家政策真的不懂啊。我们都继续来大搞招聘，不用担心吧。</p><p>回想一下，这两年对我来说，工作上是有一些改变的。从解决项目问题，到现在涉及了更多前沿探索，团队规模也有成长。</p><p>人长大了，还是可以把一些经验、知识分享给小伙伴们。有时候需要为项目起一个头，决定目标和研发方向。但无论年龄多大，需要学习的东西还是有很多，在专业道路上还是要继续尝试做技术创新。</p><p>程序员在职业发展中加入管理职务，考虑的事情会变多，除了团队，要考虑部门、事业群、职业通道，公司以至公司以外。也要做不少招聘、培训等事情，要令更多人一起成长并合作完成大工程。</p><p>年龄增大并不一定身体越差。我这两年身体越来越好呢，还鼓励同事们一起去做运动。管理上也要尽量令大家能有正常的作息规律。</p><p>今年去了以色列游学，才知道很多以色列人是不退休的。如果我有一天退休，估计也只是从一种工作模式换成另一种。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-91c10d861518f4333100940b92742777_b.jpg\" data-rawwidth=\"1200\" data-rawheight=\"1200\" data-size=\"normal\" data-default-watermark-src=\"https://pic2.zhimg.com/v2-29c1cb38558233669036c487348e8329_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-91c10d861518f4333100940b92742777_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1200'&gt;&lt;/svg&gt;\" data-rawwidth=\"1200\" data-rawheight=\"1200\" data-size=\"normal\" data-default-watermark-src=\"https://pic2.zhimg.com/v2-29c1cb38558233669036c487348e8329_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-91c10d861518f4333100940b92742777_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-91c10d861518f4333100940b92742777_b.jpg\"></figure><p>今年吃到小伙伴们亲手做的蛋糕，很惊喜啊，感谢！</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-20f10d27d5d256ff3608c9bd8b117a0a_b.jpg\" data-rawwidth=\"1920\" data-rawheight=\"2560\" data-size=\"normal\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-e3d5bf986d9e3c39ab51c5ff3fe0e2ca_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic3.zhimg.com/v2-20f10d27d5d256ff3608c9bd8b117a0a_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1920'%20height='2560'&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"2560\" data-size=\"normal\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-e3d5bf986d9e3c39ab51c5ff3fe0e2ca_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic3.zhimg.com/v2-20f10d27d5d256ff3608c9bd8b117a0a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-20f10d27d5d256ff3608c9bd8b117a0a_b.jpg\"></figure><p></p>",
+        "editable_content": "",
+        "excerpt": "昨天41，到了 <a class=\"member_mention\" href=\"https://www.zhihu.com/people/0970f947b898ecc0ec035f9126dd4e08\" data-hash=\"0970f947b898ecc0ec035f9126dd4e08\" data-hovercard=\"p$b$0970f947b898ecc0ec035f9126dd4e08\">@vczh</a> 母校做技术分享。从深圳到广州两个小时，在车上写了点代码，不是什么大架构啊等东西，只是改进了定点数程序库中的 exp(x) ，改用 range reduction 和 minimax 多项式近似。到会场就完成了。嗯，精确度不错，性能提升了几倍。借 WiFi，gi…",
+        "collapsed_by": "nobody",
+        "collapse_reason": "",
+        "annotation_action": [],
+        "relevant_info": {
+            "is_relevant": false,
+            "relevant_type": "",
+            "relevant_text": ""
+        },
+        "suggest_edit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormal_details": {
+                "status": "",
+                "description": "",
+                "reason": "",
+                "reason_id": 0,
+                "note": ""
+            },
+            "url": ""
+        },
+        "is_labeled": false,
+        "reward_info": {
+            "can_open_reward": false,
+            "is_rewardable": false,
+            "reward_member_count": 0,
+            "reward_total_money": 0,
+            "tagline": ""
+        },
+        "relationship": {
+            "is_author": false,
+            "is_authorized": false,
+            "is_nothelp": false,
+            "is_thanked": false,
+            "voting": 0,
+            "upvoted_followees": []
+        }
+    }, {
+        "id": 467572337,
+        "type": "answer",
+        "question": {
+            "type": "question",
+            "id": 35025502,
+            "title": "程序员年龄增大后的职业出路是什么？",
+            "question_type": "normal",
+            "created": 1440524390,
+            "updated_time": 1534125174,
+            "url": "https://www.zhihu.com/api/v4/questions/35025502",
+            "relationship": {}
+        },
+        "author": {
+            "id": "e437b894a2d420f9f6369ec202ac6d48",
+            "url_token": "cui-gang",
+            "name": "Gavin",
+            "avatar_url": "https://pic4.zhimg.com/v2-c10fd323f92b5191ff08256e678ca3a2_is.jpg",
+            "avatar_url_template": "https://pic4.zhimg.com/v2-c10fd323f92b5191ff08256e678ca3a2_{size}.jpg",
+            "is_org": false,
+            "type": "people",
+            "url": "https://www.zhihu.com/api/v4/people/e437b894a2d420f9f6369ec202ac6d48",
+            "user_type": "people",
+            "headline": "15年web程序员，前后台兼顾。目前仍在编程。",
+            "badge": [],
+            "gender": 1,
+            "is_advertiser": false,
+            "is_followed": false,
+            "is_privacy": false
+        },
+        "url": "https://www.zhihu.com/api/v4/answers/467572337",
+        "thumbnail": "",
+        "is_collapsed": false,
+        "created_time": 1534117728,
+        "updated_time": 1535586977,
+        "extras": "",
+        "is_copyable": true,
+        "is_normal": true,
+        "voteup_count": 502,
+        "comment_count": 107,
+        "is_sticky": false,
+        "admin_closed_comment": false,
+        "comment_permission": "all",
+        "can_comment": {
+            "reason": "",
+            "status": true
+        },
+        "reshipment_settings": "allowed",
+        "content": "<p>说说我的看法。</p><p>一，信息化建设一旦开始，就没有倒退的可能。而且规模会越来越大。</p><p>二，编程是一件需要技术积累的工作，也就是说非常需要经验。编程涉及的不仅仅是写程序，还有对系统的了解，对工具的熟悉，需要熟悉工作方法，总之经验很重要。</p><p>三，由于许多大型项目的存在，所以技术不会迭代太快，就算技术发展变化了，也是迭代的一种，不可能凭空出现一种和以前完全不同的技术同时立刻流行起来，除非发掘了外星科技。</p><p>综上所述，一个老程序员完全能够凭借其知识和经验，平平安安的干到死。所以身体健康最重要，多运动，多锻炼。肥胖才是程序员最大的敌人。</p><p>所以出路就是继续做程序员。</p>",
+        "editable_content": "",
+        "excerpt": "说说我的看法。一，信息化建设一旦开始，就没有倒退的可能。而且规模会越来越大。二，编程是一件需要技术积累的工作，也就是说非常需要经验。编程涉及的不仅仅是写程序，还有对系统的了解，对工具的熟悉，需要熟悉工作方法，总之经验很重要。三，由于许多大…",
+        "collapsed_by": "nobody",
+        "collapse_reason": "",
+        "annotation_action": [],
+        "relevant_info": {
+            "is_relevant": false,
+            "relevant_type": "",
+            "relevant_text": ""
+        },
+        "suggest_edit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormal_details": {
+                "status": "",
+                "description": "",
+                "reason": "",
+                "reason_id": 0,
+                "note": ""
+            },
+            "url": ""
+        },
+        "is_labeled": false,
+        "reward_info": {
+            "can_open_reward": false,
+            "is_rewardable": false,
+            "reward_member_count": 0,
+            "reward_total_money": 0,
+            "tagline": ""
+        },
+        "relationship": {
+            "is_author": false,
+            "is_authorized": false,
+            "is_nothelp": false,
+            "is_thanked": false,
+            "voting": 0,
+            "upvoted_followees": []
+        }
+    }, {
+        "id": 490743867,
+        "type": "answer",
+        "question": {
+            "type": "question",
+            "id": 35025502,
+            "title": "程序员年龄增大后的职业出路是什么？",
+            "question_type": "normal",
+            "created": 1440524390,
+            "updated_time": 1534125174,
+            "url": "https://www.zhihu.com/api/v4/questions/35025502",
+            "relationship": {}
+        },
+        "author": {
+            "id": "d069b25d6ca84652cb81ab3109572d90",
+            "url_token": "zhang-xu-guang-21",
+            "name": "沈世钧",
+            "avatar_url": "https://pic4.zhimg.com/v2-05593bb17a8f59c0ea45f27c070d5a28_is.jpg",
+            "avatar_url_template": "https://pic4.zhimg.com/v2-05593bb17a8f59c0ea45f27c070d5a28_{size}.jpg",
+            "is_org": false,
+            "type": "people",
+            "url": "https://www.zhihu.com/api/v4/people/d069b25d6ca84652cb81ab3109572d90",
+            "user_type": "people",
+            "headline": "架构师，软件开发专家",
+            "badge": [],
+            "gender": 1,
+            "is_advertiser": false,
+            "is_followed": false,
+            "is_privacy": false
+        },
+        "url": "https://www.zhihu.com/api/v4/answers/490743867",
+        "thumbnail": "",
+        "is_collapsed": false,
+        "created_time": 1536817145,
+        "updated_time": 1538014895,
+        "extras": "",
+        "is_copyable": true,
+        "is_normal": true,
+        "voteup_count": 669,
+        "comment_count": 112,
+        "is_sticky": false,
+        "admin_closed_comment": false,
+        "comment_permission": "all",
+        "can_comment": {
+            "reason": "",
+            "status": true
+        },
+        "reshipment_settings": "allowed",
+        "content": "<p>人过了35，且不是说社会上赤裸裸的年龄歧视，就拿当前中国的劳动氛围来说，动辄就是996的工作强度，就算这些公司能够给你offer，以35岁之后每况愈下的身体状况，有几个人能吃得消，只怕是有命挣钱无命消受。而那些以为混到管理层就安全了的想法，也真够naive的了：底下的兄弟都996了，你好意思让兄弟们在前面拼命，你一个人回家老婆孩子热炕头？你要敢这么干，只怕老板不让你分分钟滚蛋，底下兄弟的吐沫星子也早把你淹死了！</p><p>所以说“中年危机”的局怎么破？从个人来说很难，因为这本质上是一个社会问题。我们所能做的就是等待，等待在或远或近的将来社会劳动环境会变得更健康，更遵守法制；等待将来整个社会都消灭了恶性加班，消灭了非法解雇，消灭了年龄歧视，消灭了…。只有到了那一天才是“中年危机”真正破局之时。</p><p>尽管我相信社会的未来一定是美好的，“中年危机”一定有破局的一天，但活在当下，我们依然可以做一些事情，来最大限度的降低危机对我们的冲击：</p><p>1.35岁之前尽量进入一个温和的公司，避免盲目的跳槽。</p><p>正如我前面所说的，35岁之后身体机能急剧下降，高强度的工作（例如996）对健康的伤害是巨大的。在这种强度的工作压力下，即使公司不裁你，大概率的自己也得离开。因此，未雨绸缪，35岁之前就要可以考虑跳槽到那些工作环境健康的企业，例如外企，国企，事业单位等。而且要尽早，不要说过了35岁再行动，毕竟所有的企业都不是慈善家，都要盈利，自然都钟爱年轻人。</p><p>过了30岁，就要收敛下性格，不要一言不和就跳槽。我们都知道人年老了要靠养老金生活，其实年轻的时候，工龄也是一个巨大的财富。如果你能在一个公司服务10年，即使公司有一天要裁你，按照劳动法n+1的赔偿标准，在北京就会有40万左右的的赔偿，这笔钱足够一个家庭3年的口粮了，3年的时间也能够让一个中年男人重整旗鼓再出发了。</p><p>职场上我见过不少35+的暴躁男一言不合就跳槽的，但大部分的境况越跳越不如前：新公司、新人、新环境，动辄6个月的试用期，于是每日战战兢兢，日夜加班，可谓疲惫不堪。甚至你一个中年油腻男，连中午吃饭年轻人都不愿意带你。在老公司，也许有小人伤害你，算计你。但谁能保证新公司就没有小人算计你呢？毕竟有人的地方就有江湖！</p><p>2.转行</p><p>我在这里说的转行，并不是说今天你是一个做软件开发的，明天跑去开出租车，而是指在当前的垂直行业内，转换一个方向，这样既能发挥多年累积的行业优势，又能平滑的过渡到新职业，一个可以想到的例子就是\"软件开发转it讲师\"。</p><p>目前社会上大有人人转码农的势头，看看遍地开花的it培训机构就知道当前的培训市场有多火，it培训师的需求自然也就水涨船高。而且和软件开发不一样，软件开发基本上好的就业岗位都在一线城市，但it培训机构即使在二三线城市也有很多，所以说对很多年轻时在大城市奋斗，被高房价和户口所逼，中年想退守家乡的人来说，it讲师也不失为一个理想的选择。</p><p>和软件开发更青睐年轻人不一样，it培训机构更青睐那些有名企背景，有丰富一线开发经验的资深软件工程师，道理很明显：换做你要参加it培训，你希望教你的是一个毛头小伙？还是一个沉稳的中年男子？道理不言而喻嘛！再看看各个培训机构的宣传栏，都是把那些有名企背景，有丰富一线开发经验的讲师放在最显眼的位置。所以说，从职业生涯可持续性来说，it讲师的职业线要远长于软件开发。</p><p>3.主动降低生活的期望。</p><p>“中年危机”是个病，但病因是什么？你问问那些挣扎在社会底层的人（例如建筑工人，售货员，保安），问问他们有没有中年危机，估计人都会笑你矫情，生活对他们从来就没有轻松过。</p><p>说的不好听点，所谓的“中年危机”都是小布尔乔亚们臆想出来的。年轻的时候仗着身体好，加上被各种消费主义洗脑，出卖青春，挣些血汗钱，住着在大城市按揭的小房子，飘飘间恍然觉得自己已经实现了阶级跨越，成为了所谓的中产阶级。其实这一切都是自己的幻觉罢了。如果你明白了这一点，就知道你原来怎么活，现在依然可以那么活。</p><p>原来你给孩子报辅导班，现在失业了，上不起辅导班了，那就不上了呗，或者自己辅导（反正有的是时间），谁也没说只有上辅导班的孩子才会出息（教育要是这么简单那就太好了）。</p><p>父母病了，原来吃的是进口药，现在吃不起了，那就吃基本医保药就好了。看看你的周围，也没见隔壁的有钱人就比咱普通老百姓健康多少，快乐多少。</p><p>所以说，在这世界上，如果解决了基本衣食住行，再往上的喜怒哀乐真的不是和钱成绝对线性关系，更多在于你对待生活的态度！</p><p>4.和生命和解。</p><p>其实那些遭遇“中年危机”的人，从另一个角度看你可以感到骄傲，毕竟只有曾经拥有过，才有所谓的失去，才有所谓的危机。从未得到，何谈失去？</p><p>“中年危机”为什么在it业特别能成为一个话题，而很少听传统行业嚷嚷所谓的“中年危机”，因为传统行业的很多人从走上社会的那天起，危机（青年危机）就扑面而来。从毕业到中年都挣着卑微的薪水，生活从来就没有给过其希望，如果一定要说危机，那么这一生都是在危机中度过。</p>",
+        "editable_content": "",
+        "excerpt": "人过了35，且不是说社会上赤裸裸的年龄歧视，就拿当前中国的劳动氛围来说，动辄就是996的工作强度，就算这些公司能够给你offer，以35岁之后每况愈下的身体状况，有几个人能吃得消，只怕是有命挣钱无命消受。而那些以为混到管理层就安全了的想法，也真够naiv…",
+        "collapsed_by": "nobody",
+        "collapse_reason": "",
+        "annotation_action": [],
+        "relevant_info": {
+            "is_relevant": false,
+            "relevant_type": "",
+            "relevant_text": ""
+        },
+        "suggest_edit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormal_details": {
+                "status": "",
+                "description": "",
+                "reason": "",
+                "reason_id": 0,
+                "note": ""
+            },
+            "url": ""
+        },
+        "is_labeled": false,
+        "reward_info": {
+            "can_open_reward": false,
+            "is_rewardable": false,
+            "reward_member_count": 0,
+            "reward_total_money": 0,
+            "tagline": ""
+        },
+        "relationship": {
+            "is_author": false,
+            "is_authorized": false,
+            "is_nothelp": false,
+            "is_thanked": false,
+            "voting": 0,
+            "upvoted_followees": []
+        }
+    }, {
+        "id": 484920286,
+        "type": "answer",
+        "question": {
+            "type": "question",
+            "id": 35025502,
+            "title": "程序员年龄增大后的职业出路是什么？",
+            "question_type": "normal",
+            "created": 1440524390,
+            "updated_time": 1534125174,
+            "url": "https://www.zhihu.com/api/v4/questions/35025502",
+            "relationship": {}
+        },
+        "author": {
+            "id": "0970f947b898ecc0ec035f9126dd4e08",
+            "url_token": "excited-vczh",
+            "name": "vczh",
+            "avatar_url": "https://pic1.zhimg.com/v2-1bea18837914ab5a40537d515ed3219c_is.jpg",
+            "avatar_url_template": "https://pic1.zhimg.com/v2-1bea18837914ab5a40537d515ed3219c_{size}.jpg",
+            "is_org": false,
+            "type": "people",
+            "url": "https://www.zhihu.com/api/v4/people/0970f947b898ecc0ec035f9126dd4e08",
+            "user_type": "people",
+            "headline": "《C++Primer 5th》强势审校",
+            "badge": [],
+            "gender": 1,
+            "is_advertiser": false,
+            "is_followed": false,
+            "is_privacy": false
+        },
+        "url": "https://www.zhihu.com/api/v4/answers/484920286",
+        "thumbnail": "",
+        "is_collapsed": false,
+        "created_time": 1536019065,
+        "updated_time": 1536019165,
+        "extras": "",
+        "is_copyable": true,
+        "is_normal": true,
+        "voteup_count": 479,
+        "comment_count": 49,
+        "is_sticky": false,
+        "admin_closed_comment": false,
+        "comment_permission": "all",
+        "can_comment": {
+            "reason": "",
+            "status": true
+        },
+        "reshipment_settings": "allowed",
+        "content": "<p>最近这10年，基本上就随着计算机科技的不断进步，编程越来越容易，所以越来越多人培训一下就可以上岗涂鸦了。这条路走到极限的话，最终程序员只会被分化为三类——写系统、写框架和工具、涂鸦。</p><p>如果你们恰好是搞涂鸦的，那将来肯定没什么出路的。但是前两者的坑是不多的，所以还是该干嘛干嘛。</p><p>审视一下自己的工作是否安全最好的办法，就是看看你们每天工作8小时之余，是否加班4小时就能多出50%的产量来。如果是，赶紧要么改行要么提高自己的水平，免得到时候被年轻人按着打。</p>",
+        "editable_content": "",
+        "excerpt": "最近这10年，基本上就随着计算机科技的不断进步，编程越来越容易，所以越来越多人培训一下就可以上岗涂鸦了。这条路走到极限的话，最终程序员只会被分化为三类——写系统、写框架和工具、涂鸦。如果你们恰好是搞涂鸦的，那将来肯定没什么出路的。但是前两者…",
+        "collapsed_by": "nobody",
+        "collapse_reason": "",
+        "annotation_action": [],
+        "relevant_info": {
+            "is_relevant": false,
+            "relevant_type": "",
+            "relevant_text": ""
+        },
+        "suggest_edit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormal_details": {
+                "status": "",
+                "description": "",
+                "reason": "",
+                "reason_id": 0,
+                "note": ""
+            },
+            "url": ""
+        },
+        "is_labeled": false,
+        "reward_info": {
+            "can_open_reward": false,
+            "is_rewardable": false,
+            "reward_member_count": 0,
+            "reward_total_money": 0,
+            "tagline": ""
+        },
+        "relationship": {
+            "is_author": false,
+            "is_authorized": false,
+            "is_nothelp": false,
+            "is_thanked": false,
+            "voting": 0,
+            "upvoted_followees": []
+        }
+    }, {
+        "id": 476733712,
+        "type": "answer",
+        "question": {
+            "type": "question",
+            "id": 35025502,
+            "title": "程序员年龄增大后的职业出路是什么？",
+            "question_type": "normal",
+            "created": 1440524390,
+            "updated_time": 1534125174,
+            "url": "https://www.zhihu.com/api/v4/questions/35025502",
+            "relationship": {}
+        },
+        "author": {
+            "id": "e4b1b199d2c3647206abbdf361c4b4a9",
+            "url_token": "shi-jie-yun-92",
+            "name": "视界云",
+            "avatar_url": "https://pic1.zhimg.com/v2-74e0a7af852267a453dbdf6135335fd5_is.jpg",
+            "avatar_url_template": "https://pic1.zhimg.com/v2-74e0a7af852267a453dbdf6135335fd5_{size}.jpg",
+            "is_org": true,
+            "type": "people",
+            "url": "https://www.zhihu.com/api/v4/people/e4b1b199d2c3647206abbdf361c4b4a9",
+            "user_type": "organization",
+            "headline": "视界所及，云携天下|基于边缘计算的云服务商|公众号：视界云",
+            "badge": [{
+                "type": "identity",
+                "description": "已认证的官方帐号",
+                "topics": []
+            }],
+            "gender": -1,
+            "is_advertiser": false,
+            "is_followed": false,
+            "is_privacy": false
+        },
+        "url": "https://www.zhihu.com/api/v4/answers/476733712",
+        "thumbnail": "https://pic1.zhimg.com/v2-8cd20e4137dab7a91bc6c10559188c59_200x112.jpg",
+        "is_collapsed": false,
+        "created_time": 1535084063,
+        "updated_time": 1542187908,
+        "extras": "",
+        "is_copyable": true,
+        "is_normal": true,
+        "voteup_count": 392,
+        "comment_count": 109,
+        "is_sticky": false,
+        "admin_closed_comment": false,
+        "comment_permission": "all",
+        "can_comment": {
+            "reason": "",
+            "status": true
+        },
+        "reshipment_settings": "allowed",
+        "content": "<blockquote>程序员问科比：“你为什么这么成功？ ”<br>科比：“你知道洛杉矶凌晨四点是什么样子吗？ ”<br>程序员：“知道，一般那个时候我还在写代码，怎么了？”<br>科比：“额…….没什么，随便问问”   （参自网友）</blockquote><figure><noscript><img src=\"https://pic2.zhimg.com/v2-8cd20e4137dab7a91bc6c10559188c59_b.jpg\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"940\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic2.zhimg.com/v2-8cd20e4137dab7a91bc6c10559188c59_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='720'%20height='940'&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"940\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"720\" data-original=\"https://pic2.zhimg.com/v2-8cd20e4137dab7a91bc6c10559188c59_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8cd20e4137dab7a91bc6c10559188c59_b.jpg\"><figcaption>电影乘风破浪（剧中IT男 马化腾）</figcaption></figure><p>都说女演员吃的是青春饭，实际上人家纵使老了还可以演妈妈、奶奶这类的戏码，而在互联网圈，尤其是对于广大大龄的程序员们，吃的才是青春饭，而且大龄已经被定格在35岁，这个在很多公司的技术人员招聘中也作了明确规定。</p><h2><b>主要有以下几个方面的原因：</b></h2><p><b>首先是互联网公司盛行的加班文化</b></p><p>这种文化来源于财富急剧积累、压力和责任也随之而来的互联网巨头们，彼此之间不敢懈怠、你追我赶、狼性文化，工作效率高低且不议，至少在工作时长的上不能输，大公司推广开来的加班文化，小公司本身就处于弱势地位，哪敢放松自己。如此一来，便造就了所谓的996、9116，985已然成了奢侈品。</p><p>而加班对于大龄的程序员们，且不说身体吃不吃不得消、陪家人、照顾父母、孩子、家庭琐事也让他们很难像刚毕业的年轻人一样有足够的精力全身心的投入在工作中，而这也是很多互联网公司尤其关注的层面。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-5f375ba450bc8c5b5a3e4ad1d1157264_b.jpg\" data-size=\"normal\" data-rawwidth=\"502\" data-rawheight=\"517\" class=\"origin_image zh-lightbox-thumb\" width=\"502\" data-original=\"https://pic1.zhimg.com/v2-5f375ba450bc8c5b5a3e4ad1d1157264_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='502'%20height='517'&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"502\" data-rawheight=\"517\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"502\" data-original=\"https://pic1.zhimg.com/v2-5f375ba450bc8c5b5a3e4ad1d1157264_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-5f375ba450bc8c5b5a3e4ad1d1157264_b.jpg\"><figcaption>2018互联网公司加班 TOP10</figcaption></figure><figure><noscript><img src=\"https://pic2.zhimg.com/v2-65753ae58eefb17f2891d8a8f1137e81_b.jpg\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"315\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-65753ae58eefb17f2891d8a8f1137e81_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='640'%20height='315'&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"315\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-65753ae58eefb17f2891d8a8f1137e81_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-65753ae58eefb17f2891d8a8f1137e81_b.jpg\"><figcaption>图片参自微博网友</figcaption></figure><figure><noscript><img src=\"https://pic2.zhimg.com/v2-9367e367d21f0b7d19ee4031466ede11_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"678\" data-rawheight=\"90\" class=\"origin_image zh-lightbox-thumb\" width=\"678\" data-original=\"https://pic2.zhimg.com/v2-9367e367d21f0b7d19ee4031466ede11_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='678'%20height='90'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"678\" data-rawheight=\"90\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"678\" data-original=\"https://pic2.zhimg.com/v2-9367e367d21f0b7d19ee4031466ede11_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-9367e367d21f0b7d19ee4031466ede11_b.jpg\"></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-a35b177adb87f6cbb7cadd976c8707f8_b.jpg\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"507\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-a35b177adb87f6cbb7cadd976c8707f8_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='640'%20height='507'&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"507\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-a35b177adb87f6cbb7cadd976c8707f8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-a35b177adb87f6cbb7cadd976c8707f8_b.jpg\"><figcaption>参阅自脉脉匿名区</figcaption></figure><p><b>再者大龄技术人员的学习能力和好奇心会被认为不如年轻人</b></p><p>当然这个不说普世原则，只是放在一般的场景下去讨论。人的精力毕竟是有限的，当你要把注意力放在家庭上，则意味着你将很难全身心关注工作。再者，随着年龄的增长，好奇心和学习能力其实本身就是一个逐渐递减的过程，年轻时候接触和学习新知识、技能和观念的能力更强。对于技术尤其如此，新的技术时刻在发生，一单与这个时代脱轨了、语言落后了，则也将意味着很难继续适应和满足当下工作要求。</p><p><b>最后便是有点残忍的长江后浪推前浪的自然法则</b></p><p>在自然界旧事物会逐渐被新事物取代，用一种美好的说法叫做“进化”。在互联网程序员身上同样如此，企业希望引进新鲜的血液为公司带来新的文化、知识、技能，保证自身的市场竞争力，而一个坑一个萝卜，则必将意味着老将终究是要逐渐淡出、退居幕后。</p><h2><b>最后回到问题本身，关于大龄程序员的出路</b></h2><p><b>转岗</b></p><p>这个主要包括两类产品岗位和管理岗位，相对应的职能便是项目经理和产品经理。</p><p>这个在互联网圈其实也是很主流和顺理成章的操作，毕竟很多公司的负责人本身就是程序员出身，脸书CEO扎克伯格、小米雷军、腾讯马化腾、360周鸿祎以及无数产品经理的偶像微信之父张小龙。</p><p>当然转岗需要做的准备工作还是需要付出一些代价的，比如项目管理需要学习管理相关的知识、产品经理需要补充和学习相关的产品工具和技能。</p><p>此外，这个转岗还包括彻底离开技术体系转成职能岗位，比如销售类岗位，毕竟技术人员出身的销售相比较普通销售而言更懂得和了解自身产品的特性。</p><p><b>跳出来</b></p><p>刚才的转成自身公司的销售，那个内部叫做转岗，但是如果是外部环境而言，应该是归于脱坑或者说跳出来更为合适。</p><p>跳出来可以干的事情很多，比如口才不错的、技术还行的可以选择成为培训师或者咨询师，为技术小白授课、解答职场疑惑、为企业提供决策的建议；或者文笔不错的技术人员可以成为自身垂直领域的自媒体；年轻人时候的创业梦没有圆的，在积累了一定人脉、资源的时候这时候也可以重新去做梦，创业也是很多大龄技术人员选择走的一条路。</p><p><b>钻进去</b></p><p>这方面既包括继续做程序员，也包括纵向提升自己的技能，成为技术大拿。</p><p>从普通的研发工作转为深层次的研发，当然这其中对技术的深度和能力便提出了更高的要求，这条路显然是难度极高的，但同时也注定了越老越值钱！</p><h2>结 语</h2><p>其实不论哪种选择，等到35被大龄青年了再决定其实也太过被动，无论是程序员还是互联网圈的其他工作，都需要在保证身体健康为前提的情况下，不断的提升自身的核心竞争力，守住那颗好奇心，不断的学习提升自己。在条件许可的情况下， 有时候主动选择跳离当下的舒适区，也许未尝不是件好事！</p>",
+        "editable_content": "",
+        "excerpt": "程序员问科比：“你为什么这么成功？ ” 科比：“你知道洛杉矶凌晨四点是什么样子吗？ ” 程序员：“知道，一般那个时候我还在写代码，怎么了？” 科比：“额…….没什么，随便问问” （参自网友）都说女演员吃的是青春饭，实际上人家纵使老了还可以演妈妈…",
+        "collapsed_by": "nobody",
+        "collapse_reason": "",
+        "annotation_action": [],
+        "relevant_info": {
+            "is_relevant": false,
+            "relevant_type": "",
+            "relevant_text": ""
+        },
+        "suggest_edit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormal_details": {
+                "status": "",
+                "description": "",
+                "reason": "",
+                "reason_id": 0,
+                "note": ""
+            },
+            "url": ""
+        },
+        "is_labeled": false,
+        "reward_info": {
+            "can_open_reward": false,
+            "is_rewardable": false,
+            "reward_member_count": 0,
+            "reward_total_money": 0,
+            "tagline": ""
+        },
+        "relationship": {
+            "is_author": false,
+            "is_authorized": false,
+            "is_nothelp": false,
+            "is_thanked": false,
+            "voting": 0,
+            "upvoted_followees": []
+        }
+    }, {
+        "id": 534051906,
+        "type": "answer",
+        "question": {
+            "type": "question",
+            "id": 35025502,
+            "title": "程序员年龄增大后的职业出路是什么？",
+            "question_type": "normal",
+            "created": 1440524390,
+            "updated_time": 1534125174,
+            "url": "https://www.zhihu.com/api/v4/questions/35025502",
+            "relationship": {}
+        },
+        "author": {
+            "id": "c2a4d4d586117c5a3c723c21f3e495cc",
+            "url_token": "hao-wang-21-43",
+            "name": "SigmaCore",
+            "avatar_url": "https://pic2.zhimg.com/b43424a4d9c7f0297c0a4be6f64cae8a_is.jpg",
+            "avatar_url_template": "https://pic2.zhimg.com/b43424a4d9c7f0297c0a4be6f64cae8a_{size}.jpg",
+            "is_org": false,
+            "type": "people",
+            "url": "https://www.zhihu.com/api/v4/people/c2a4d4d586117c5a3c723c21f3e495cc",
+            "user_type": "people",
+            "headline": "不做金融的码农不是一个好的生物工程师",
+            "badge": [],
+            "gender": 1,
+            "is_advertiser": false,
+            "is_followed": false,
+            "is_privacy": false
+        },
+        "url": "https://www.zhihu.com/api/v4/answers/534051906",
+        "thumbnail": "",
+        "is_collapsed": false,
+        "created_time": 1542538059,
+        "updated_time": 1542538059,
+        "extras": "",
+        "is_copyable": true,
+        "is_normal": true,
+        "voteup_count": 26,
+        "comment_count": 3,
+        "is_sticky": false,
+        "admin_closed_comment": false,
+        "comment_permission": "all",
+        "can_comment": {
+            "reason": "",
+            "status": true
+        },
+        "reshipment_settings": "allowed",
+        "content": "<p>去武汉干什么，让孩子再体验一把高考么</p><p>抓住泡沫时代的尾巴，移民啊大哥</p>",
+        "editable_content": "",
+        "excerpt": "去武汉干什么，让孩子再体验一把高考么抓住泡沫时代的尾巴，移民啊大哥",
+        "collapsed_by": "nobody",
+        "collapse_reason": "",
+        "annotation_action": [],
+        "relevant_info": {
+            "is_relevant": false,
+            "relevant_type": "",
+            "relevant_text": ""
+        },
+        "suggest_edit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormal_details": {
+                "status": "",
+                "description": "",
+                "reason": "",
+                "reason_id": 0,
+                "note": ""
+            },
+            "url": ""
+        },
+        "is_labeled": false,
+        "reward_info": {
+            "can_open_reward": false,
+            "is_rewardable": false,
+            "reward_member_count": 0,
+            "reward_total_money": 0,
+            "tagline": ""
+        },
+        "relationship": {
+            "is_author": false,
+            "is_authorized": false,
+            "is_nothelp": false,
+            "is_thanked": false,
+            "voting": 0,
+            "upvoted_followees": []
+        }
+    }]
+}
